@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VianneyLB
-- 👀 I’m interested in coding, data, sports and nfts
-- 🌱 I’m currently studying Computer Engineering at EFREI Paris
+- 👀 I’m interested in coding, data/AI and sports
+- 🌱 I’m currently studying Computer Engineering at ESILV Paris
 - 📫 How to reach me: vianneylb@gmail.com
 
 <!---
